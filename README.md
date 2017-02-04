@@ -1,2 +1,2 @@
-# Sample-To-Do-iOS-AND-NodeJs-Backend
-Do-To iOS app and NodeJS Backend with authentication
+This is a demo how to build an iOS app communicate with security APIs backend nodejs/mongodb. The iOS app is simple to-do app, it will allow user signup/signin, create tasks with image, and delete tasks. The backend built an authentication service, using bcrypt to hash password with salt and store hashed password in mongodb, using jwt-simple to generate json web token to client when user signin/signup successfully. In client app, only requests with valid token will be authorized to process, otherwise request is denied. In nodejs backend using express router, passport-jwt that help to build APIs with authentication mechanism become more clearly, better organized.
+
