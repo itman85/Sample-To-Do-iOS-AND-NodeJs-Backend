@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static User.todoIds.getter:User.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "todosDictionary.allKeys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static User.createTodo(text : String, image : UIImage?, completionHandler : (Bool) -&gt; ()) -&gt; ():User.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewToDoViewController.addButtonPress(Any) -&gt; ():NewToDoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePreview.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
